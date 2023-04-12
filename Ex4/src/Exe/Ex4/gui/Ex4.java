@@ -22,34 +22,6 @@ import Exe.Ex4.geo.ShapeComp;
 import Exe.Ex4.geo.Triangle2D;
 
 //BY: Matan Ziv
-//ID : 208235769
-
-/*Mega TODO list
- * 
- * 
- * 
- * 
- */
-
-
-
-
-
-
-
-
-
-
-
-/**
- * 
- * This class is a simple "inter-layer" connecting (aka simplifying) the
- * StdDraw with the Map class.
- * Written for 101 java course it uses simple static functions to allow a 
- * "Singleton-like" implementation.
- * @author boaz.benmoshe
- *
- */
 
 //Data + init funcs
 public class Ex4 implements Ex4_GUI{
