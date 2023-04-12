@@ -5,8 +5,6 @@ import Exe.Ex4.Ex4_Const;
 /**
  * This class represents a 2D point in the plane.
  * Do NOT change this class! It would be used as is for testing.
- * Ex4: you should edit and update this class!
- * @author boaz.benmoshe
  */
 
 
