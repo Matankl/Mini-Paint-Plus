@@ -6,9 +6,6 @@ package Exe.Ex4.geo;
  * moving a shape by a vector, testing if a shape contains a point, area, 
  * perimeter, toString, a method (getPoints) for getting the points representing this 
  * GeoShape, a rotation method and a rescale method.
- * 
- * Ex4: you should NOT change this interface!
- * @author boaz.benmoshe
  */
 
 public interface GeoShapeable {
