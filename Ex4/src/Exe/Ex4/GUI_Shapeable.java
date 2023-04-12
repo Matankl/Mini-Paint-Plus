@@ -3,7 +3,6 @@ package Exe.Ex4;
  * This interface represents GUI drawable Shape, 
  * with color, tag and fill values.
  * It contains a reference to a Geometric shape.
- *  Ex4: you should NOT change this interface!
  * @author boaz.benmoshe
  */
 import java.awt.Color;
