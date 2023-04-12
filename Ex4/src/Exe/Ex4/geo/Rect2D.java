@@ -3,9 +3,6 @@ package Exe.Ex4.geo;
 
 /**
  * This class represents a 2D rectangle (NOT necessarily axis parallel - this shape can be rotated!)
- * Ex4: you should implement this class!
- * @author I2CS
- *
  */
 public class Rect2D implements GeoShapeable {
 	//data
