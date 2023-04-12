@@ -1,9 +1,6 @@
 package Exe.Ex4;
 /**
- * This class represents a set of parameters for Ex4 GUI Shape application for:
- * Introduction to Computer Science 2022, Ariel University.
- * Do NOT change this class
- * @author boaz.benmoshe
+ * This class represents a set of parameters for Ex4 GUI Shape application:
  */
 public class Ex4_Const {
 	public static final double EPS1 = 0.001, EPS2=Math.pow(EPS1, 2), EPS = EPS2;
