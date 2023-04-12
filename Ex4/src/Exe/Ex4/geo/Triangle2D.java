@@ -2,9 +2,6 @@ package Exe.Ex4.geo;
 
 /**
  * This class represents a 2D Triangle in the plane.
- * Ex4: you should implement this class!
- * @author I2CS
- *
  */
 public class Triangle2D implements GeoShapeable{
 	//data
