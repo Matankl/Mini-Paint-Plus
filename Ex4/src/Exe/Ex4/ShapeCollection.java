@@ -15,7 +15,6 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.Scanner;
-
 import Exe.Ex4.geo.Circle2D;
 import Exe.Ex4.geo.GeoShapeable;
 import Exe.Ex4.geo.Point2D;
@@ -26,8 +25,6 @@ import Exe.Ex4.geo.ShapeComp;
 /**
  * This class represents a collection of GUI_Shape.
  * Ex4: you should implement this class!
- * @author I2CS
- *
  */
 public class ShapeCollection implements ShapeCollectionable{
 	private ArrayList<GUI_Shapeable> _shapes;
