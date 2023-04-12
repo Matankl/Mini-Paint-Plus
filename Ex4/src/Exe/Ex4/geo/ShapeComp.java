@@ -1,16 +1,12 @@
 package Exe.Ex4.geo;
 
 import java.util.Comparator;
-
 import Exe.Ex4.Ex4_Const;
 import Exe.Ex4.GUI_Shapeable;
 
 /**
  * This class represents a Comparator over GUI_Shapes - 
  * as a linear order over GUI_Shapes.
- * Ex4: you should implement this class!
- * @author I2CS
- *
  */
 public class ShapeComp implements Comparator<GUI_Shapeable>{
 	//////////add your code below ///////////
