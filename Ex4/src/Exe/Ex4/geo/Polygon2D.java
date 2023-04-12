@@ -3,10 +3,6 @@ package Exe.Ex4.geo;
 /**
  * This class represents a 2D polygon, as in https://en.wikipedia.org/wiki/Polygon
  * This polygon can be assumed to be simple in terms of area and contains.
- * 
- * You should update this class!
- * @author boaz.benmoshe
- *
  */
 public class Polygon2D implements GeoShapeable{
 	//data
