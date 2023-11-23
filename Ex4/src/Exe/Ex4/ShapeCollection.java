@@ -5,12 +5,10 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
-import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.LinkedList;
@@ -20,7 +18,6 @@ import Exe.Ex4.geo.GeoShapeable;
 import Exe.Ex4.geo.Point2D;
 import Exe.Ex4.geo.Polygon2D;
 import Exe.Ex4.geo.Rect2D;
-import Exe.Ex4.geo.ShapeComp;
 
 /**
  * This class represents a collection of GUI_Shape.

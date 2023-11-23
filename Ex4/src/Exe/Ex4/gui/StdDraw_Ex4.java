@@ -705,7 +705,7 @@ public final class StdDraw_Ex4 implements ActionListener, MouseListener, MouseMo
 		getFrame().setResizable(false);
 		getFrame().setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);            // closes all windows
 		// frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);      // closes only current window
-		getFrame().setTitle("Ex4 I2CS (Ariel) based on Standard Draw");
+		getFrame().setTitle("Mini-Paint-Plus by Matan Ziv");
 		getFrame().setJMenuBar(createMenuBar());
 		getFrame().pack();
 		getFrame().requestFocusInWindow();
