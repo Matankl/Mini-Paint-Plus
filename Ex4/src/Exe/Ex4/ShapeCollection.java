@@ -21,11 +21,11 @@ import Exe.Ex4.geo.Rect2D;
 
 /**
  * This class represents a collection of GUI_Shape.
- * Ex4: you should implement this class!
  */
 public class ShapeCollection implements ShapeCollectionable{
 	private ArrayList<GUI_Shapeable> _shapes;
 	GUI_Shapeable _gs; 
+
 	public ShapeCollection() {
 		_shapes = new ArrayList<GUI_Shapeable>();
 	}
