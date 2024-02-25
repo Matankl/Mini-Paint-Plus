@@ -1,11 +1,8 @@
 package Exe.Ex4;
 /**
  * This class implements the GUI_shape.
- * Ex4: you should implement this class! 
- * @author I2CS
  */
 import java.awt.Color;
-
 import Exe.Ex4.geo.GeoShapeable;
 
 
